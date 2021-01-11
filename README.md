@@ -1,6 +1,6 @@
 !!!This repo is outdated.!!!
 ======================
-Please check http://github.com/hazelcast/hazelcast-hibernate5
+Please check http://github.com/hazelcast/hazelcast-hibernate
 
 ---------------------------
 
